@@ -1,0 +1,13 @@
+# Data
+*.csv
+*.zip
+*.xlsx
+*.xls
+
+# Office
+~$*
+.~lock.*
+
+# System
+.DS_Store
+Thumbs.db
