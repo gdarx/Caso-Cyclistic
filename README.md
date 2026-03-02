@@ -58,7 +58,7 @@ Explorando en el conjunto de datos descubrí que existen celdas vacías o valore
 <img width="921" height="531" alt="image" src="https://github.com/user-attachments/assets/f304b7f7-3e89-4484-a9ee-06346e13db4e" />
 
 Los miembros realizan más viajes en comparación a los ocasionales.
-Los miembros tienen 2 picos relevantes, a las 8:00 y 17:00, esto puede relacionarze al trabajo.
+Los miembros tienen 2 picos relevantes, a las 8:00 y 17:00, esto puede relacionarse al trabajo.
 Los ocasionales puede que tengan un uso recreativo
 
 <img width="921" height="457" alt="image" src="https://github.com/user-attachments/assets/75cf7cb1-2755-410f-a6c8-8bbf64a7d847" />
@@ -86,7 +86,7 @@ Los miembros suelen preferir mas las rutas que se encuentran en la zona céntric
 
 ## Actuar
 ### Recomendaciones
-Como los usuarios ocacisionales mayormente usan el servicio los fines de semana, una recomiendacion para volverlos miembros es crear un plan que se enfoque en los fines de semana, como ofreciendo promociones y o descuentos, y haciendo énfasis en el uso recreacional.
+Como los usuarios ocasionales mayormente usan el servicio los fines de semana, una recomiendacion para volverlos miembros es crear un plan que se enfoque en los fines de semana, como ofreciendo promociones y/o descuentos, y haciendo énfasis en el uso recreacional.
 
 Otra oportunidad es crear otro tipo de membresía enfocada en el verano, ya que es la época en donde mas se concentra durante el año.
 
